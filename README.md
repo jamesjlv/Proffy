@@ -35,3 +35,9 @@ Para particularidades em configurações, acesse a pasta do projeto e veja as in
 ## Preview
 
 ### Web
+
+![](https://github.com/jamesjlv/Proffy/blob/master/web/public/showProffy.gif?raw=true)
+
+### Mobile App
+
+![](https://github.com/jamesjlv/Proffy/blob/master/web/public/ShowMobille.gif?raw=true)
