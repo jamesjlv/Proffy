@@ -40,4 +40,4 @@ Para particularidades em configurações, acesse a pasta do projeto e veja as in
 
 ### Mobile App
 
-![](https://github.com/jamesjlv/Proffy/blob/master/web/public/ShowMobille.gif?raw=true)
+![](https://github.com/jamesjlv/Proffy/blob/master/web/public/ShowMobile.gif?raw=true)
